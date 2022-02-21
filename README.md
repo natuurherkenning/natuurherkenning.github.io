@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## Natuurherkenning Community
 
-You can use the [editor on GitHub](https://github.com/natuurherkenning/natuurherkenning.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### Samenwerken aan optimale inzet en kwaliteit van beeldherkenning voor Nederlands natuuronderzoek
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Monitoring met fotografie, wildcamera's en video biedt kansen op ongekende schaal voor Nederlands natuuronderzoek.
 
-### Markdown
+Beeldherkenning wordt een **cruciaal instrument** voor het verwerken, filteren en valideren van alle beelddata.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Het belang van **inzichtelijke werking en kwaliteit** van dit instrument neemt toe, voor alle partners in natuuronderzoek (bureaus, gegevensorganisaties, wetenschap, overheid).
 
-```markdown
-Syntax highlighted code block
+De Natuurherkenning Community heeft als doel een open samenwerking te stimuleren.
 
-# Header 1
-## Header 2
-### Header 3
+## Doelstelling
 
-- Bulleted
-- List
+### De Natuurherkenning Community stimuleert open samenwerking aan het:
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/natuurherkenning/natuurherkenning.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- organiseren van soort-specifieke **datasets**;
+- opstellen van **standaarden** en benchmarks;
+- monitoren van de **kwaliteit** van soort-specifieke modellen;
+- stimuleren van onderzoek en **optimalisatie** van algoritmes en technieken.
